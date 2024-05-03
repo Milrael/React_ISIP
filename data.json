@@ -1,0 +1,32 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Игрушка BabyGo 2в1 Ходунки+Столик",
+            "description": "Activity Walker&Table BabyGo – это сразу две развивающие игрушки. Ходунки пригодятся для первых шагов малыша, а на столике вас ждёт множество развивающих игр.",
+            "image": "https://img.detmir.st/eDCLLi3kH5pU3Dh3cLoAjeU0G0LGejZRjMysdx8Z4pg/rs:fit:1224:1224/g:sm/aHR0cHM6Ly9jYXRhbG9nLmRldG1pci5zdC9tZWRpYS9HOU9mX3Vpb0NtaXViT3E5TEk2RUt2OC1jWTZWSTV1ci01VVAyZjk0Wi1zPT9wcmVzZXQ9c2l0ZV9wcm9kdWN0X2dhbGxlcnlfcjE1MDA.webp",
+            "price": 2699
+        },
+        {
+            "id": 2,
+            "title": "Фигурка GooJitZu Гидра Водная атака тянущаяся",
+            "description": "У супергероев Гуджитсу появилась суперсила - Водная Атака! Берегись их мощной атаки брызгами воды! Каждый герой Гуджитсу теперь обладает еще более мощным оружием и съемной одеждой! Испытай суперсилу Гуджитсу!",
+            "image": "https://img.detmir.st/1HnWWJHsc9MQCgC5IjzF4FxfFuiK8TR8Olf2KkW1ym4/rs:fit:1224:1224/g:sm/aHR0cHM6Ly9jYXRhbG9nLmRldG1pci5zdC9tZWRpYS8tN3c0UUVlQUQ5ckVPbENqNDJta1hnU0Rldlduc213MUdVYTlqZktjQzVVPT9wcmVzZXQ9c2l0ZV9wcm9kdWN0X2dhbGxlcnlfcjE1MDA.webp",
+            "price": 2699
+        },
+        {
+            "id": 3,
+            "title": "Игрушка Hasbro(FRF) Русский мишка",
+            "description": "Интерактивная плюшевая игрушка Фурриал Френдс Русский мишка самый лучший компаньон для вашего ребенка. Он примет участие в любом приключении и прижмется к вашему ребенку в конце дня.",
+            "image": "https://catalog.detmir.st/media/L-WdOxLq0XTua0Z1MDpoN0ENs1At9S6XLJM1EUm__zc=?preset=site_product_gallery_r1500",
+            "price": 9999
+        },
+        {
+            "id": 4,
+            "title": "Конструктор LEGO Technic Yamaha MT-10 SP",
+            "description": "Каждая деталь была продумана, чтобы сделать эту модель максимально похожей на настоящую Yamaha. Вас ждут 4-цилиндровый двигатель, 3-ступенчатая коробка передач и цепная главная передача с функциональной передней и задней подвеской. .",
+            "image": "https://img.detmir.st/svcKYNdh2WJa59mPuGrUWj2QTcECwawsw8BaZnxGBpU/rs:fit:1224:1224/g:sm/aHR0cHM6Ly9jYXRhbG9nLmRldG1pci5zdC9tZWRpYS9RNzZ0RFl1UEphMUh2ZmJSUlVyc1hTc0o4SURGR1ZqT1ItRUJzSkJEZFI0PT9wcmVzZXQ9c2l0ZV9wcm9kdWN0X2dhbGxlcnlfcjE1MDA.webp",
+            "price": 29699
+        }
+    ]
+}
